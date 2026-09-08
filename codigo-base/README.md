@@ -4,11 +4,11 @@ Projeto educacional desenvolvido com React, TypeScript, Vite e Supabase.
 
 ## Comandos
 
-npm install
-npm run dev
-npm run build
-npm run typecheck
-npm run test
+- npm install
+- npm run dev
+- npm run build
+- npm run typecheck
+- npm run test
 
 ## Estrutura
 
